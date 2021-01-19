@@ -29,6 +29,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'activerecord-postgis-adapter'
 gem 'therubyracer'
 gem 'execjs'
+gem 'rails_12factor'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
